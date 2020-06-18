@@ -1,0 +1,32 @@
+[
+	{
+		"bgImgURL": "1.jpg",
+		"linkURL": "http://google.com",
+		"headline": "Structures",
+		"caption": "Diggers returns to action with this teriffic progressive mix on his Bedrock label"
+	},
+	{
+		"bgImgURL": "2.jpg",
+		"linkURL": "http://google.com",
+		"headline": "Global Underground #035",
+		"caption": "The Bristol progmeister posts the latest in the GU mix series from Lima, Peru"
+	},
+	{
+		"bgImgURL": "3.jpg",
+		"linkURL": "http://google.com",
+		"headline": "Balance 005",
+		"caption": "James Holden's spins the 5th in the acclaimed Aussie progressive series, Balance"
+	},
+	{
+		"bgImgURL": "4.jpg",
+		"linkURL": "http://google.com",
+		"headline": "Bedrock OS_0.2",
+		"caption": "This undiscovered gem is still one of the best mixes around and available on Bedrock"
+	},
+	{
+		"bgImgURL": "5.jpg",
+		"linkURL": "http://google.com",
+		"headline": "Global Underground #028",
+		"caption": "Global Underground heads to China for #28, with label favourite Nick Warren in control"
+	}
+]
