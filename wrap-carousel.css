@@ -1,0 +1,64 @@
+.carousel {
+	font-family: 'Trebuchet MS';
+	font-size: 1rem;
+	position: relative;
+	margin: 40px auto 0 auto;
+	overflow: hidden;
+	background: linear-gradient(to bottom, #444, #1a1a1a);
+	border-radius: 10px;
+}
+.carousel, .carousel * { box-sizing: content-box; }
+.carousel ul {
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	height: calc(100% - (1rem * 2));
+	margin: 0;
+	width: calc(100% - (1rem * 2));
+}
+.carousel li {
+	top: 25px;
+	transition: .4s;
+	left: 0;
+	border: solid 0px black;
+	cursor: pointer;
+	position: absolute;
+	background-repeat: no-repeat;
+	list-style: none;
+	display: block;
+	overflow: hidden;
+	border-radius: 10px;
+	opacity: .4;
+}
+.carousel li:hover { opacity: 1; }
+.carousel .on {
+	top: 0;
+	opacity: 1;
+	box-shadow: 0 6px 22px #222;
+}
+.carousel li div {
+	width: 100%;
+	background: #fff;
+	position: absolute;
+	bottom: 0;
+	border-radius: 10px;
+	opacity: 0;
+	transition: .4s;
+}
+.carousel .on div { opacity: 1; }
+.carousel h3 {
+	margin: 0 0 10px 0;
+	font-size: 1.6rem;
+	padding: .5rem 1rem;
+	background: #ccc;
+	color: #00659d;
+}
+.carousel p {
+	color: #333;
+	line-height: 1rem;
+	padding: 0 1rem;
+}
+.carousel p a {
+	color: #a9e100;
+	text-decoration: none;
+}
