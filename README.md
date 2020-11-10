@@ -9,4 +9,4 @@ Wrap Carousel is an animated, vanilla JavaScript-powered carousel, with two notb
 
 It feeds off a JSON-formatted file denoting the slides' text and images.
 
-For all usage and examples see https://mitya.uk/projects/wrap-carousel
+Read the [full documentation](http://mitya.uk/projects/wrap-carousel) for more.
