@@ -1,8 +1,6 @@
 # Wrap Carousel
 
-[Docs](http://mitya.uk/projects/wrap-carousel)
-
-[Demo](http://mitya.uk/lab/demos/wrap-carousel-demo.html)
+**[Docs](http://mitya.uk/projects/wrap-carousel) | [Demo](http://mitya.uk/lab/demos/wrap-carousel-demo.html)**
 
 Wrap Carousel is an animated, vanilla JavaScript-powered carousel, with two notble CSS-animated effects:
 
